@@ -1,5 +1,5 @@
 """
-SEVEN-FUNCTION CALCULATOR V7.2.1
+SEVEN-FUNCTION CALCULATOR V7.2.2
 
 A command-line calculator application providing seven core mathematical functions:
 addition, subtraction, multiplication, division, exponentiation, trigonometry,
